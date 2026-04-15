@@ -18,7 +18,7 @@ export function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6">
         <Link to="/" className="flex items-center gap-2 text-xl font-bold text-foreground">
           <Camera className="h-7 w-7 text-primary" />
-          <span>个人网站</span>
+          <span>0668摄影记录</span>
           <span className="hidden text-sm font-normal text-muted-foreground sm:inline">作品展示</span>
         </Link>
 
